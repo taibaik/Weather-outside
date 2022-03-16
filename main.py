@@ -1,4 +1,4 @@
-hot_outside = False
+hot_outside = True
 cold_outside = False
 
 if hot_outside:
